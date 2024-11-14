@@ -8,6 +8,7 @@
 <body>
     <div class="container">
         <p class="logo">boo</p>
+        <p class="heading">signup</p>
     </div>
 </body>
 </html>
