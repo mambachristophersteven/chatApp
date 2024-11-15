@@ -14,7 +14,10 @@
                 <label for="name">name</label>
                 <input type="text">
             </div>
-            
+            <div class="form-group">
+                <label for="name">name</label>
+                <input type="text">
+            </div>
         </form>
     </div>
 </body>
