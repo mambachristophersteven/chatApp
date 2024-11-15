@@ -20,6 +20,9 @@
             </div>
             <input type="submit" value="submit">
         </form>
+        <div class="option">
+            <a href="#">login</a>
+        </div>
     </div>
 </body>
 </html>
