@@ -10,8 +10,11 @@
         <p class="logo">boo</p>
         <p class="heading">signup</p>
         <form action="#">
-            <label for="name">name</label>
-            <input type="text">
+            <div class="form-group">
+                <label for="name">name</label>
+                <input type="text">
+            </div>
+            
         </form>
     </div>
 </body>
