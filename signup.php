@@ -18,6 +18,7 @@
                 <label for="name">name</label>
                 <input type="text">
             </div>
+            <input type="submit" value="submit">
         </form>
     </div>
 </body>
