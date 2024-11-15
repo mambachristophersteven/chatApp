@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="container">
-        <p class="logo">boo</p>
+        <p class="logo">boobaa</p>
         <p class="heading">signup</p>
         <form action="#">
             <div class="form-group">
