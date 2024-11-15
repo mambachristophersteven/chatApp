@@ -9,6 +9,9 @@
     <div class="container">
         <p class="logo">boo</p>
         <p class="heading">signup</p>
+        <form action="#">
+            <input type="text">
+        </form>
     </div>
 </body>
 </html>
