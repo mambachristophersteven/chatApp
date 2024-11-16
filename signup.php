@@ -23,6 +23,7 @@
         <div class="option">
             <p>already have an account</p>
             <a href="#">login</a> 
+            
         </div>
     </div>
 </body>
