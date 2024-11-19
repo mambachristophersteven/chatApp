@@ -9,6 +9,9 @@
     <div class="container">
         <p class="logo"></p>
         <p class="name">signup</p>
+        <form action="#">
+            
+        </form>
     </div>
 </body>
 </html>
