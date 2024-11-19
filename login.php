@@ -12,6 +12,7 @@
         <form action="#">
             <div class="form-group">
                 <label for="name">username</label>
+                <input type="text">
             </div>
         </form>
     </div>
