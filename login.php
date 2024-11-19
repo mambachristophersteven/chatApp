@@ -15,8 +15,8 @@
                 <input type="text">
             </div>
             <div class="form-group">
-                <label for="name">username</label>
-                <input type="text">
+                <label for="name">password</label>
+                <input type="password" name="password" id="password">
             </div>
         </form>
     </div>
