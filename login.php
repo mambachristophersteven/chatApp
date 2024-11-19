@@ -10,7 +10,7 @@
         <p class="logo"></p>
         <p class="name">signup</p>
         <form action="#">
-            
+            <div class="form-group"></div>
         </form>
     </div>
 </body>
