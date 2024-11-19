@@ -20,6 +20,9 @@
             </div>
             <input type="submit" value="submit">
         </form>
+        <div class="option">
+            <p class="link">already have</p>
+        </div>
     </div>
 </body>
 </html>
