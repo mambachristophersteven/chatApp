@@ -21,7 +21,7 @@
             <input type="submit" value="submit">
         </form>
         <div class="option">
-            <p class="link">already have</p>
+            <p class="link">already have an account</p>
         </div>
     </div>
 </body>
