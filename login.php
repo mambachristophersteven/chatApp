@@ -22,6 +22,7 @@
         </form>
         <div class="option">
             <p class="link">already have an account</p>
+            <a href="#">sign up</a>
         </div>
     </div>
 </body>
