@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="container">
-        <p class="logo"></p>
+        <p class="logo">ChatApp</p>
         <p class="name">signup</p>
         <form action="#">
             <div class="form-group">
