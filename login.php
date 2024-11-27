@@ -26,7 +26,6 @@
             <a href="#">sign up</a>
         </div>
         <div class="jpp">up up away</div>
-        
     </div>
 </body>
 </html>
