@@ -13,6 +13,7 @@
             <div class="form-group">
                 <label for="name">username</label>
                 <input type="text">
+                <input type="text">
             </div>
             <div class="form-group">
                 <label for="name">password</label>
