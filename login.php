@@ -25,7 +25,7 @@
             <p class="link">already have an account</p>
             <a href="#">sign up</a>
         </div>
-        <div class="jpp">up up away</div>
+        <div class="jpp">away</div>
     </div>
 </body>
 </html>
