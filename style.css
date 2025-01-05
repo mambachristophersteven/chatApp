@@ -99,3 +99,18 @@ body{
     border: none;
     margin-top: 15px;
 }
+
+.link p{
+    text-align: center;
+    margin: 10px 0;
+    font-size: 17px;
+}
+
+.link p a{
+    color: #515151;
+    font-family: poppinsSemi;
+}
+
+.link p a:hover{
+    text-decoration: underline;
+}
