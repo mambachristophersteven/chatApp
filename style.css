@@ -54,5 +54,17 @@ body{
 
 .form form{
     margin: 20px 0;
-    display: flex;
 }
+
+.form form .error-txt{
+    color: #721c24;
+    background: #f8d7da;
+    padding: 8px 10px;
+    text-align: center;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    font-family: poppinsSemi;
+    border: 1px solid #f5c6cb;
+}
+
+.form form
