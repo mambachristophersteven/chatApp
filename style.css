@@ -89,3 +89,12 @@ body{
     display: flex;
     gap: 10px;
 }
+
+.form form .field input[type=submit]{
+    height: 45px;
+    background: #333;
+    color: white;
+    font-family: poppinsSemi;
+    cursor: pointer;
+    border: none;
+}
