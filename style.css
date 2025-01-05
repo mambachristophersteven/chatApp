@@ -23,7 +23,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    text-decoration: none
+    text-decoration: none;
+    font-family: poppins;
 }
 
 body{
@@ -67,4 +68,17 @@ body{
     border: 1px solid #f5c6cb;
 }
 
-.form form
+.form form .field, .form form .field1{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    gap: 3px;
+}
+
+.form form .field input{
+    height: 40px;
+    width: 100%;
+    font-size: 16px;
+    padding: 0 10px;
+    border: 1px solid #ccc;
+}
